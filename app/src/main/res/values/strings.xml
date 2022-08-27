@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="textview">TextView</string>
+    <string name="no">No</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="yes">Yes</string>
+</resources>
